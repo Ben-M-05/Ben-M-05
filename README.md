@@ -1,5 +1,5 @@
 ## Hi, I'm Ben ##
-### I am a Computer Science student aiming to become a Software Engineer 🧑‍💻  ###
+### I am a Computer Science student working to become a Software Engineer 🧑‍💻  ###
 
 - 🔭 I’m currently working on [Seneca](https://www.x.com/realSenecaApp)
 - 🌱 I’m currently learning prompt engineering
